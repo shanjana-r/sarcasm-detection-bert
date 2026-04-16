@@ -38,9 +38,15 @@ To classify whether a given sentence is sarcastic or not using deep learning tec
 ```
 sarcasm-detection-bert/
 │
-├── sarcasm_detection_bert.ipynb
+├── notebooks/
+│   └── sarcasm_detection_bert.ipynb
+├── outputs/
+│   ├── Output 1.png
+│   ├── Confusion matrix.png
+│   └── prediction.png
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ## 🚀 Future Improvements
